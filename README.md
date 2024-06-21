@@ -12,6 +12,8 @@
 ### Github Stats
 [![MysteryManav's GitHub | Stats](https://stats.quira.sh/MysteryManav/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=MysteryManav)
 [![MysteryManav's GitHub | Dependencies](https://stats.quira.sh/MysteryManav/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=MysteryManav)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryManav&langs_count=8)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MysteryManav&theme=radical)](https://git.io/streak-stats)
 
 ### Tech Stack
 "One who is curious enough can never be contained or captivated by beauty of a single object" - Me
@@ -20,7 +22,7 @@ With an interest in App, Games, Web and other technologies, I am curious and con
 ### Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/madhur-prajapati-228b2a220/" target="_blank">'
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhur-prajapati-228b2a220/" height="30" width="40" /></a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/madhur-prajapati-228b2a220/" height="30" width="40" /></a>
 <a href="https://twitter.com/notRealZero" target="_blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="https://twitter.com/notRealZero" height="30" width="30" />
 </a>
