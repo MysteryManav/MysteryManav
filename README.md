@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Madhur Prajapati
----
+
 
 - 🌱 I’m currently learning **Natural Language Processing, Computer Vision**
 - 🔭 I’m currently exploring on **Deep Learning, Data Science**
